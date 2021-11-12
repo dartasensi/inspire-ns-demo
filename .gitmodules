@@ -1,0 +1,3 @@
+[submodule "vg-docker"]
+	path = vg-docker
+	url = https://github.com/dartasensi/vg-docker.git
